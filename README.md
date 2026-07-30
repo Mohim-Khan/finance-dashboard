@@ -1,4 +1,4 @@
-# Finance Transactions Dashboard — Power BI
+# Finance Transactions Dashboard
 
 An executive-level financial analytics dashboard built in Power BI, analyzing 50,000+ banking transactions across 5,000 customers to surface transaction trends, channel performance, fraud risk, and customer segment behavior across 3 report pages.
 
