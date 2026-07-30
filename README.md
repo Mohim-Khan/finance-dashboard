@@ -54,7 +54,3 @@ The raw data had several real-world quality issues that needed fixing before the
 - **Channel performance is remarkably even** — no single channel dominates transaction value (all sit within a tight ₹64–66 Cr band), but ATM and Auto Debit show the highest raw counts of failed transactions, worth flagging to ops for reliability review.
 - **Maharashtra, Karnataka, and Gujarat are the top three states by transaction value**, suggesting these regions could be prioritized for relationship banking or fraud-monitoring resources.
 - **July 2025 was the peak month** for transaction value in the dataset, useful as a reference point for seasonal capacity planning.
-
----
-
-*Data used in this project is synthetic and was generated/sourced for portfolio and learning purposes only — it does not represent real customer or transaction data.*
